@@ -1,0 +1,6 @@
+:root {
+}
+
+.label-style {
+    font-size: 64px;
+}
